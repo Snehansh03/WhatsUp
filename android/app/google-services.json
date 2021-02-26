@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067121293761",
+    "firebase_url": "https://whatsup-f17c6.firebaseio.com",
+    "project_id": "whatsup-f17c6",
+    "storage_bucket": "whatsup-f17c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067121293761:android:d2231d9c8ccf89b495d740",
+        "android_client_info": {
+          "package_name": "co.sid.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067121293761-df9f5098q7kjinlgs7pp80s3ta3ld9tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUidVLtIFZfoKB24ts-dNn2S3OhsR07Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067121293761-df9f5098q7kjinlgs7pp80s3ta3ld9tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
